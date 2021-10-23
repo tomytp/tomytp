@@ -9,7 +9,8 @@ I am a Computer Engineering student at PUC-RJ.
 - 📊 This week I've worked with:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         21 mins         ██████████████████▓░░░░░░   74.22 % 
+JavaScript   6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.61 % 
 ```
 <!--END_SECTION:waka-->
 
