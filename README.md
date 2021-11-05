@@ -9,7 +9,7 @@ I am a Computer Engineering student at PUC-RJ.
 - 📊 This week I've worked with:
 <!--START_SECTION:waka-->
 ```text
-C#      5 hrs 30 mins   █████████████████████████   99.97 % 
+C#      4 hrs 42 mins   █████████████████████████   99.97 % 
 ```
 <!--END_SECTION:waka-->
 
