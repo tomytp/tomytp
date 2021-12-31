@@ -8,7 +8,7 @@ I am a Computer Engineering student at PUC-RJ.
 - 📊 This week I've worked with:
 <!--START_SECTION:waka-->
 ```text
-Python   44 mins         █████████████████████████   99.50 % 
+Python   3 hrs 24 mins   █████████████████████████   99.89 % 
 ```
 <!--END_SECTION:waka-->
 
