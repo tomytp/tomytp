@@ -1,6 +1,6 @@
 ### Hi there, I'm tomytp 👋
 
-I am a Computer Engineering student at PUC-RJ.
+I am a Computer Engineering student at PUC-Rio.
 - Brazilian 🇧🇷
 - Currently training on  <a href="https://www.codewars.com/" target="_blank"> codewars </a><img src="Images/codewars.svg" width="15"/>
 
