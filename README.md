@@ -8,7 +8,8 @@ I am a Computer Engineering student at PUC-Rio.
 - 📊 This week I've worked with:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#           3 hrs 38 mins   ████████████████████████▒   97.24 % 
+Git Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 <!--END_SECTION:waka-->
 
